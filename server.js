@@ -6,7 +6,6 @@ const app = express();
 const port = process.env.PORT || 8080;
 
 //Log with Morgan
-app.use(morgan('dev'));
 
 
 //accept encoded data as well as json format
