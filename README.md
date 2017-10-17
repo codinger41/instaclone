@@ -6,5 +6,8 @@ Redux,
 Node,
 Filestack.
 
-just git clone the repo and run 'npm install' to get all the dependencies ready
-then run 'npm start' to get it running.
+# git clone the repo 
+
+# run 'npm install' to get all the dependencies ready
+
+# run 'npm start' to get it running.
