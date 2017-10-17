@@ -8,7 +8,10 @@ const port = process.env.PORT || 8080;
 //Log with Morgan
 app.use(morgan('dev'));
 
+
 //accept encoded data as well as json format
+
+
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
