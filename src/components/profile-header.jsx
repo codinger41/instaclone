@@ -21,7 +21,7 @@ export default class ProfileHeader extends React.Component {
               <h4><strong>Han Solo</strong> Smuggler & Gambler</h4>
               <ul className="header-ul">
                 <li><strong>50</strong> posts</li>
-                <li><strong>300k</strong> followers</li>
+                <li><strong>500k</strong> followers</li>
                 <li><strong>180</strong> following</li>
               </ul>
             </div>
